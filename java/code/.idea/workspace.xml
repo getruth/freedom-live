@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3695405e-8874-4163-b091-e086087b1316" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcvlTneCwzGJ3cPdFhHyXnyIJV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\freedom-live\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ListTest (1)">
+    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.collection.CollectionTest" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.collection.ListTest" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemAnly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.test.MemAnly" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupperExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.generics.SupperExtends" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumsAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.TwoNumsAdd" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="code" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="code" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListTest (1)" />
+        <item itemvalue="Application.TwoNumsAdd" />
+        <item itemvalue="Application.CollectionTest" />
+        <item itemvalue="Application.SupperExtends" />
+        <item itemvalue="Application.MemAnly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3695405e-8874-4163-b091-e086087b1316" name="Default Changelist" comment="" />
+      <created>1585151348455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585151348455</updated>
+      <workItem from="1585151352939" duration="226000" />
+      <workItem from="1585151611013" duration="131000" />
+      <workItem from="1585759975973" duration="40000" />
+      <workItem from="1587141184898" duration="1861000" />
+      <workItem from="1587290973758" duration="187000" />
+      <workItem from="1587305319833" duration="74000" />
+      <workItem from="1587317885582" duration="676000" />
+      <workItem from="1587483714521" duration="9765000" />
+      <workItem from="1588002129711" duration="4591000" />
+      <workItem from="1588749406368" duration="705000" />
+      <workItem from="1588756297534" duration="623000" />
+      <workItem from="1588774138787" duration="6239000" />
+      <workItem from="1588863847826" duration="12142000" />
+      <workItem from="1589122625847" duration="19284000" />
+      <workItem from="1589464879397" duration="7827000" />
+      <workItem from="1589546710797" duration="36705000" />
+      <workItem from="1589729230443" duration="665000" />
+      <workItem from="1589811675291" duration="4966000" />
+      <workItem from="1590072887717" duration="833000" />
+      <workItem from="1590418619128" duration="2797000" />
+      <workItem from="1590586766834" duration="16342000" />
+      <workItem from="1590910429606" duration="581000" />
+      <workItem from="1590911089610" duration="12501000" />
+      <workItem from="1591183336539" duration="601000" />
+      <workItem from="1591365144817" duration="2403000" />
+      <workItem from="1591510586094" duration="6405000" />
+      <workItem from="1591664537721" duration="50000" />
+      <workItem from="1591664620129" duration="3978000" />
+      <workItem from="1591809271280" duration="626000" />
+      <workItem from="1591810096221" duration="603000" />
+      <workItem from="1591885255853" duration="3459000" />
+      <workItem from="1591923845548" duration="2323000" />
+      <workItem from="1592050849603" duration="1362000" />
+      <workItem from="1592144731300" duration="1552000" />
+      <workItem from="1592400199664" duration="18000" />
+      <workItem from="1592400243691" duration="119000" />
+      <workItem from="1592401051874" duration="7699000" />
+      <workItem from="1592567457955" duration="2416000" />
+      <workItem from="1592836532758" duration="2429000" />
+      <workItem from="1593008592179" duration="1332000" />
+      <workItem from="1593354714930" duration="3525000" />
+      <workItem from="1593706687581" duration="149000" />
+      <workItem from="1593706869884" duration="1846000" />
+      <workItem from="1593777966171" duration="3989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="184" key="#HTTP_Proxy" timestamp="1591664556289">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="597" y="184" key="#HTTP_Proxy/62.0.1858.1080@62.0.1858.1080" timestamp="1591664556289" />
+    <state x="802" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1591030622277">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589821108537" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590892348697" />
+    <state x="802" y="237" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1591030622277" />
+    <state x="664" y="185" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1588777357052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="185" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588777357052" />
+    <state x="711" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589812471180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589812471180" />
+    <state x="805" y="234" key="FileChooserDialogImpl" timestamp="1591975989793">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="768" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587142664836" />
+    <state x="805" y="234" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1591975989793" />
+    <state width="901" height="284" key="GridCell.Tab.0.bottom" timestamp="1593786157074">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="934" height="277" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653269" />
+    <state width="914" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
+    <state width="901" height="284" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157074" />
+    <state width="901" height="284" key="GridCell.Tab.0.center" timestamp="1593786157073">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="934" height="277" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
+    <state width="914" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
+    <state width="901" height="284" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157073" />
+    <state width="901" height="284" key="GridCell.Tab.0.left" timestamp="1593786157073">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="934" height="277" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
+    <state width="914" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
+    <state width="901" height="284" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157073" />
+    <state width="901" height="284" key="GridCell.Tab.0.right" timestamp="1593786157074">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="934" height="277" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
+    <state width="914" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
+    <state width="901" height="284" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157074" />
+    <state width="895" height="360" key="GridCell.Tab.1.bottom" timestamp="1593364433859">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="451" height="346" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589728775199" />
+    <state width="926" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590593532562" />
+    <state width="895" height="360" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1593364433859" />
+    <state width="895" height="360" key="GridCell.Tab.1.center" timestamp="1593364433859">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="451" height="346" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589728775199" />
+    <state width="926" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590593532562" />
+    <state width="895" height="360" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1593364433859" />
+    <state width="895" height="360" key="GridCell.Tab.1.left" timestamp="1593364433859">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="451" height="346" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589728775199" />
+    <state width="926" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590593532561" />
+    <state width="895" height="360" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1593364433859" />
+    <state width="895" height="360" key="GridCell.Tab.1.right" timestamp="1593364433859">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="451" height="346" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589728775199" />
+    <state width="926" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590593532562" />
+    <state width="895" height="360" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1593364433859" />
+    <state x="508" y="168" key="SettingsEditor" timestamp="1591975995395">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589627736192" />
+    <state x="508" y="168" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1591975995395" />
+    <state width="541" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1591540645109">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="541" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/62.0.1858.1080@62.0.1858.1080" timestamp="1591540645109" />
+    <state x="686" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1593778021801">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590072952153" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590586882747" />
+    <state x="686" y="357" key="com.intellij.ide.util.TipDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1593778021801" />
+    <state x="256" y="303" key="extract.method.dialog" timestamp="1591031239187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="256" y="303" key="extract.method.dialog/62.0.1858.1080@62.0.1858.1080" timestamp="1591031239187" />
+    <state x="611" y="129" width="759" height="822" key="find.popup" timestamp="1593780085957">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="611" y="129" width="759" height="822" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1593780085957" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1590941589165">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1590941589165" />
+    <state x="363" y="80" key="new project wizard" timestamp="1587142932996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="363" y="80" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587142932996" />
+    <state x="200" y="234" width="672" height="705" key="search.everywhere.popup" timestamp="1591543725437">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589555391157" />
+    <state x="200" y="234" width="672" height="705" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1591543725437" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/core/no1/chapter5/ReflectionTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[20]有效的括号.java</url>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

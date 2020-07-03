@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[20]有效的括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[20]有效的括号.java" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/编程/LeetCode/leetcode/editor/cn/[1014]最佳观光组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/编程/LeetCode/leetcode/editor/cn/[1014]最佳观光组合.java" />
+              <option name="questionId" value="1063" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/编程/LeetCode/leetcode/editor/cn/[面试题 17.13]恢复空格.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/编程/LeetCode/leetcode/editor/cn/[面试题 17.13]恢复空格.java" />
+              <option name="questionId" value="1000020" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
