@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3695405e-8874-4163-b091-e086087b1316" name="Default Changelist" comment="" />
+    <list default="true" id="3695405e-8874-4163-b091-e086087b1316" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/collection/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/collection/ListTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZcvlTneCwzGJ3cPdFhHyXnyIJV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -211,7 +219,9 @@
       <workItem from="1593354714930" duration="3525000" />
       <workItem from="1593706687581" duration="149000" />
       <workItem from="1593706869884" duration="1846000" />
-      <workItem from="1593777966171" duration="3989000" />
+      <workItem from="1593777966171" duration="6946000" />
+      <workItem from="1594050370216" duration="622000" />
+      <workItem from="1594054970006" duration="142000" />
     </task>
     <servers />
   </component>
@@ -242,30 +252,30 @@
     </state>
     <state x="768" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587142664836" />
     <state x="805" y="234" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1591975989793" />
-    <state width="901" height="284" key="GridCell.Tab.0.bottom" timestamp="1593786157074">
+    <state width="901" height="284" key="GridCell.Tab.0.bottom" timestamp="1593887300305">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="934" height="277" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653269" />
     <state width="914" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
-    <state width="901" height="284" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157074" />
-    <state width="901" height="284" key="GridCell.Tab.0.center" timestamp="1593786157073">
+    <state width="901" height="284" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1593887300305" />
+    <state width="901" height="284" key="GridCell.Tab.0.center" timestamp="1593887300305">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="934" height="277" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
     <state width="914" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
-    <state width="901" height="284" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157073" />
-    <state width="901" height="284" key="GridCell.Tab.0.left" timestamp="1593786157073">
+    <state width="901" height="284" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1593887300305" />
+    <state width="901" height="284" key="GridCell.Tab.0.left" timestamp="1593887300305">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="934" height="277" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
     <state width="914" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
-    <state width="901" height="284" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157073" />
-    <state width="901" height="284" key="GridCell.Tab.0.right" timestamp="1593786157074">
+    <state width="901" height="284" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1593887300305" />
+    <state width="901" height="284" key="GridCell.Tab.0.right" timestamp="1593887300305">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="934" height="277" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589973653268" />
     <state width="914" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590893649503" />
-    <state width="901" height="284" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1593786157074" />
+    <state width="901" height="284" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1593887300305" />
     <state width="895" height="360" key="GridCell.Tab.1.bottom" timestamp="1593364433859">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -299,11 +309,11 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="541" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/62.0.1858.1080@62.0.1858.1080" timestamp="1591540645109" />
-    <state x="686" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1593778021801">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594055079723">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590072952153" />
-    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590586882747" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594055079723" />
     <state x="686" y="357" key="com.intellij.ide.util.TipDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1593778021801" />
     <state x="256" y="303" key="extract.method.dialog" timestamp="1591031239187">
       <screen x="62" y="0" width="1858" height="1080" />
@@ -331,42 +341,42 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatServer.java</url>
           <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatServer.java</url>
           <line>17</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatServer.java</url>
           <line>44</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatClient.java</url>
           <line>50</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatClient.java</url>
           <line>61</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatClient.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatClient.java</url>
           <line>77</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/head/first/java/chapter15/SimpleChatServer.java</url>
+          <url>file://$PROJECT_DIR$/src/head/first/java/chapter15/SimpleChatServer.java</url>
           <line>58</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/core/no1/chapter5/ReflectionTest.java</url>
+          <url>file://$PROJECT_DIR$/src/core/no1/chapter5/ReflectionTest.java</url>
           <line>22</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -375,17 +385,17 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TwoNumsAdd.java</url>
           <line>8</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TwoNumsAdd.java</url>
           <line>12</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/freedom-live/java/code/src/leetcode/TwoNumsAdd.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TwoNumsAdd.java</url>
           <line>10</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
